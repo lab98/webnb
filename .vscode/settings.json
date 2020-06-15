@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "database": "webnb",
+            "driver": "MariaDB",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "webnb",
+            "password": "lucalb98",
+            "port": 3306,
+            "previewLimit": 100,
+            "server": "localhost",
+            "username": "lucalb98"
+        }
+    ]
+}

@@ -1,5 +1,5 @@
-var React= require('react');
-function HelloMessage(props){
+var React = require("react");
+function index(props) {
   return <div>Hello {props.name}</div>;
 }
-module.exports= HelloMessage;
+module.exports = index;
